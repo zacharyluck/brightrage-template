@@ -4,11 +4,15 @@ sass:
 kramdown:
   input: GFM
 
+# pagination settings, un-comment these if you're using blog style homepage
+# paginate: 5
+# paginate_path: "/"
+
 # your info goes here
 author:
   name-enable: true
-  name: Zachary Luck
+  name: "Zachary Luck"
   email-enable: true
-  email: zacharysluck@gmail.com
+  email: "zacharysluck@gmail.com"
   github-enable: true
-  github: https://github.com/zacharyluck
+  github: "https://github.com/zacharyluck"
